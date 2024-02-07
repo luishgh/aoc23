@@ -1,6 +1,6 @@
 # Advent of Code 2023
 
-The plan is to solve each day of [https://adventofcode.com/2023](Advent of Code 2023) with the language specified at `langdomes.txt`.
+The plan is to solve each day of [Advent of Code 2023](https://adventofcode.com/2023/) with the language specified at `langdomes.txt`.
 
 ## Days
 
